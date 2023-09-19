@@ -22,6 +22,6 @@ $ k6 run simple-test.js
 ## Improvements suggested by arpit at the end of video
 
 - [x] Limiting the number of threads
-- [ ] Add threadpool to save on thread creation time
+- [x] Add threadpool to save on thread creation time
 - [ ] Connection timeout
 - [ ] Tcp backlog queue configuration
